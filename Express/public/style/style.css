@@ -1,0 +1,46 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.task{
+
+outline: none;
+height: 40px;
+border: #8297ba 3px solid;
+border-radius: 10px;
+
+
+
+}
+.button{
+
+background-color: blue;
+color: white;
+border: blue;
+height: 40px;
+border-radius: 10px;
+font-weight: bold;
+letter-spacing: 2px;
+
+
+}
+.myday{
+
+background-color: rgb(255, 255, 255);
+box-shadow: 1px 2px 3px 1px #777575;
+
+
+}
+.result{
+
+background-color: rgb(243 243 243);
+
+}
+.datarow{
+
+background-color: blue;
+
+
+}
